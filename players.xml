@@ -1,26 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <persistentplayerdata>
-  <player platform="EOS" userid="000230f8b4e04729b08723ccda086a12" nativeplatform="Steam" nativeuserid="76561197980015267" playername="Ino Srel" lastlogin="2024-03-12 13:40:36" position="-1288,63,832">
+  <player platform="EOS" userid="000230f8b4e04729b08723ccda086a12" nativeplatform="Steam" nativeuserid="76561197980015267" playername="Ino Srel" lastlogin="2024-03-13 13:17:27" position="-1280,63,827">
     <acl platform="EOS" userid="0002316621f64132bf7870808606df10" />
     <bedroll pos="-1286,67,829" />
-    <questpositions>
-      <position id="2141380943" positiondatatype="0" pos="-544,66,484" />
-      <position id="2141380943" positiondatatype="1" pos="-1115,64,399" />
-    </questpositions>
   </player>
-  <player platform="EOS" userid="0002f1048be540f0966ff887fab0380e" nativeplatform="Steam" nativeuserid="76561198328816463" playername="hucher7" lastlogin="2024-03-12 13:40:29" position="-1280,63,830">
+  <player platform="EOS" userid="0002f1048be540f0966ff887fab0380e" nativeplatform="Steam" nativeuserid="76561198328816463" playername="hucher7" lastlogin="2024-03-13 13:15:25" position="-1280,63,829">
+    <acl platform="EOS" userid="0002316621f64132bf7870808606df10" />
     <bedroll pos="-1282,67,828" />
-    <questpositions>
-      <position id="2141380943" positiondatatype="1" pos="-1115,64,399" />
-      <position id="2141380943" positiondatatype="0" pos="-544,66,484" />
-    </questpositions>
   </player>
-  <player platform="EOS" userid="0002316621f64132bf7870808606df10" nativeplatform="Steam" nativeuserid="76561198062704799" playername="Gruby Maniek" lastlogin="2024-03-11 21:45:27" position="-1280,63,830">
+  <player platform="EOS" userid="0002316621f64132bf7870808606df10" nativeplatform="Steam" nativeuserid="76561198062704799" playername="Gruby Maniek" lastlogin="2024-03-13 13:17:04" position="-1289,67,826">
     <acl platform="EOS" userid="000230f8b4e04729b08723ccda086a12" />
+    <acl platform="EOS" userid="0002f1048be540f0966ff887fab0380e" />
+    <backpack id="1956" pos="-1569,89,1831" timestamp="9170" />
+    <backpack id="2530" pos="-1577,82,1836" timestamp="11497" />
     <bedroll pos="-1290,67,823" />
-    <questpositions>
-      <position id="2141380943" positiondatatype="1" pos="-1115,64,399" />
-      <position id="2141380943" positiondatatype="0" pos="-544,66,484" />
-    </questpositions>
   </player>
 </persistentplayerdata>
